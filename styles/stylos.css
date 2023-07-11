@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:#ccc;
+
+}
+
+.hero {
+    background-image: url(../imagens/BuddhaBowle_Rezept-768x432.jpeg);
+    height: 380px;
+    background-size: cover;
+    background-position: right;
+    padding: 1px;
+    margin: auto;
+}
+
+.hero-content {
+    margin: 50px auto 0;
+    width: 80%;
+    text-align: left;
+    color:white;
+}
+
+.hero-content h1 {
+    font-size: 30;
+    text-shadow: 2px 2px 2px black;
+    text-transform: uppercase;
+   
+}
+
+.hero-content p {
+    background-color: rgba(0,0, 0, 0.5);
+    font-size: 18px;
+    display: inline-block;
+    padding: 16px;
+    border-bottom: 2px solid;
+
+}
+
+.index {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+.hero nav ul {
+    margin: 20px 50px 0 0;
+    text-align: right;
+}
+
+.hero nav li {
+    display: inline-block;
+    list-style-type: none;
+    border: 1px solid white;
+}
+
+.hero nav a {
+    background-color: rgba(0,0, 0, .3);
+    padding: 16px;
+    display: block;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.hero nav a:hover {
+    background-color: rgba(0,0, 0, .3);
+} 
+
+main {
+    margin: 15px 50px 15px 50px;
+}
+
+.conteiner {
+    text-align: center;
+    
+}
+
+.index {
+ text-align: center;
+ padding: 5px;
+ border: 5px;
+ margin-top: 5px;
+
+}
+
+.menu{
+    font-size: 17px;
+    text-align: left;
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px;
+    border: 15px 15px 15px;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.dal{
+    text-align: left;
+    width: auto;
+    padding: 20px;
+    border: 5px;
+
+   
+}
+
+
+.salada{
+    text-align: left;
+    width: auto;
+    padding: 20px;
+    border: 5px;
+    margin-top: 5px;
+
+}
+
+.falafel {
+    text-align: left;
+    width: auto;
+    padding: 20px;
+    border: 5px;
+    margin-top: 5px;
+}
+
+.misso {
+    text-align: left;
+    width: auto;
+    padding: 20px;
+    border: 5px;
+    margin-top: 5px;
+}
+
